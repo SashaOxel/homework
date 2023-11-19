@@ -1,0 +1,31 @@
+h1	{
+	text-align: center;
+	color: red;
+}
+body {
+	background-color: aquamarine;
+}
+.p2 {
+	padding: 0px 48px;
+}
+.p3 {
+	padding: 0px 96px;
+}
+.p4 {
+	padding: 0px 192px;
+}
+.p5 {
+	padding: 0px 364px;
+}
+h3 {
+color: purple;
+}
+p {
+	line-height: 0.3;
+}
+ul {
+	line-height: 0.5;
+}
+.p7 {
+	color: green;
+}
